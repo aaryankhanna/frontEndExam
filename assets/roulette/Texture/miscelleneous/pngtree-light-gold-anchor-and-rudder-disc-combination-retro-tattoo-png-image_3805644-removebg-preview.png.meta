@@ -1,0 +1,74 @@
+{
+  "ver": "1.0.22",
+  "importer": "image",
+  "imported": true,
+  "uuid": "35ee8185-5a2d-4c96-88ea-1d00c38d09c3",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "35ee8185-5a2d-4c96-88ea-1d00c38d09c3@6c48a",
+      "displayName": "pngtree-light-gold-anchor-and-rudder-disc-combination-retro-tattoo-png-image_3805644-removebg-preview",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "clamp-to-edge",
+        "wrapModeT": "clamp-to-edge",
+        "imageUuidOrDatabaseUri": "35ee8185-5a2d-4c96-88ea-1d00c38d09c3",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "35ee8185-5a2d-4c96-88ea-1d00c38d09c3@f9941",
+      "displayName": "pngtree-light-gold-anchor-and-rudder-disc-combination-retro-tattoo-png-image_3805644-removebg-preview",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": -3.5,
+        "trimX": 79,
+        "trimY": 42,
+        "width": 202,
+        "height": 283,
+        "rawWidth": 360,
+        "rawHeight": 360,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "35ee8185-5a2d-4c96-88ea-1d00c38d09c3@6c48a",
+        "atlasUuid": ""
+      },
+      "ver": "1.0.9",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "type": "sprite-frame",
+    "hasAlpha": true,
+    "redirect": "35ee8185-5a2d-4c96-88ea-1d00c38d09c3@f9941"
+  }
+}
